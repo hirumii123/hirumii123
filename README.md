@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there 👋
+😄 New Account Guyss
+🏫 I'm a Software Engineering Tech. Student at Universitas Gadjah Mada
+🌱 I’m currently interested learning Website Development & UI/UX Design
+🌏 Based on Sleman, Yogyakarta
 
 <!--
 **hirumii123/hirumii123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
