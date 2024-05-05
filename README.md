@@ -1,7 +1,7 @@
 Hi there 👋 <br>
 😄 New Account Guyss <br>
 🏫 I'm a Software Engineering Tech. Student at Universitas Gadjah Mada <br>
-🌱 I’m currently interested learning Website Development & UI/UX Design <br>
+🌱 Currently interested learning Website Development & UI/UX Design <br>
 🌏 Based on Sleman, Yogyakarta
 
 <!--
